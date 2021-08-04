@@ -1,6 +1,6 @@
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: black;
+    background-color: white;
 }
 
 #container {
@@ -13,7 +13,7 @@ body {
 #calculator {
     width: 320px;
     height: 520px;
-    background-color: white;
+    background-color: black;
     margin: 0 auto;
     top: 20px;
     position: relative;
@@ -81,25 +81,25 @@ body {
 
 button:nth-child(4) {
     font-size: 20px;
-    background-color: #919191;
+    background-color: yellow;
 }
 
 button:nth-child(8) {
     font-size: 20px;
-    background-color: #919191;
+    background-color: yellow;
 }
 
 button:nth-child(12) {
     font-size: 20px;
-    background-color: #919191;
+    background-color: yellow;
 }
 
 button:nth-child(16) {
     font-size: 20px;
-    background-color: #919191;
+    background-color: yellow;
 }
 
 button:nth-child(20) {
     font-size: 20px;
-    background-color: #919191;
+    background-color: yellow;
 }
